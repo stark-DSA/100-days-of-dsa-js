@@ -5,7 +5,7 @@ Each day, I solve one algorithm or data structure problem using JavaScript.
 
 | Day | Problem                          | Topic              | Difficulty | Folder Link            |
 |------|---------------------------------|--------------------|------------|-----------------------|
-| 1    | Two Sum                         | Hash Map           | Easy       | [Day01_TwoSum](./Day01_TwoSum) |
+| 1    | Two Sum                         | Hash Map           | Easy       | [Day01_TwoSum](./Day01_TwoSum-) |
 ## How to use this repo
 
 - Each folder contains:  
